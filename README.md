@@ -41,7 +41,7 @@
 ## 👤 作者
 
 *   **原始脚本:** SutChan
-*   **优化与文档:** [Your Name / Community]
+*   **优化与文档:** [SutChan]
 
 ---
 
@@ -86,4 +86,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## 👤 Author
 
 *   **Original Script by:** SutChan
-*   **Optimized & Documented by:** [Your Name / Community]
+*   **Optimized & Documented by:** [SutChan]
