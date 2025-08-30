@@ -1,6 +1,6 @@
 # Windows 网络代理设置工具
 
-[English Version](README.md)
+[English Version](README.en.md)
 
 一个简单而强大的批处理脚本，用于快速管理 Windows 系统代理设置。非常适合需要频繁在直连和代理网络环境之间切换的用户。
 

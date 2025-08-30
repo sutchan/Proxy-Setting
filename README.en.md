@@ -1,6 +1,6 @@
 # Windows Proxy Management Tool
 
-[简体中文](README_zh-CN.md)
+[简体中文](README.md)
 
 A simple yet powerful batch script for quickly managing Windows system proxy settings. Ideal for users who frequently need to switch between direct and proxied network environments.
 
