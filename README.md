@@ -5,7 +5,6 @@
 一个简单而强大的批处理脚本，用于快速管理 Windows 系统代理设置。非常适合需要频繁在直连和代理网络环境之间切换的用户。
 
 ![脚本运行截图](screenshot.png)
-*(在这里添加一张脚本运行的截图，命名为 `screenshot.png`)*
 
 ## ✨ 功能特性
 
@@ -51,7 +50,6 @@
 A simple yet powerful batch script for quickly managing Windows system proxy settings. Ideal for users who frequently need to switch between direct and proxied network environments.
 
 ![Screenshot of the tool](screenshot.png)
-*(Add a screenshot of the script running here, named `screenshot.png`)*
 
 ## ✨ Features
 
