@@ -1,6 +1,6 @@
-# Windows 网络代理设置工具 (Windows Proxy Management Tool)
+# Windows 网络代理设置工具
 
-[English Version](#english-version)
+[English Version](README.md)
 
 一个简单而强大的批处理脚本，用于快速管理 Windows 系统代理设置。非常适合需要频繁在直连和代理网络环境之间切换的用户。
 
@@ -14,6 +14,7 @@
 *   **查看当前设置**：清晰地显示当前代理是否启用及其地址。
 *   **交互式菜单**：友好的命令行菜单，操作直观。
 *   **管理员权限检查**：自动检测是否以管理员身份运行，并给出提示。
+*   **语言自动检测**：根据你的系统语言环境，自动切换中英文界面。
 
 ## 🚀 如何使用
 
@@ -40,50 +41,4 @@
 
 ## 👤 作者
 
-*   **原始脚本:** SutChan
-*   **优化与文档:** [SutChan]
-
----
-
-## English Version
-
-A simple yet powerful batch script for quickly managing Windows system proxy settings. Ideal for users who frequently need to switch between direct and proxied network environments.
-
-![Screenshot of the tool](screenshot.png)
-
-## ✨ Features
-
-*   **Enable & Set Proxy**: Quickly set the HTTP proxy server address and port for the system.
-*   **One-Click Disable Proxy**: Instantly clear system proxy settings to restore a direct connection.
-*   **Flush DNS Cache**: Resolve network issues caused by a stale DNS cache.
-*   **View Current Settings**: Clearly display whether the proxy is enabled and its current address.
-*   **Interactive Menu**: A user-friendly command-line interface for intuitive operation.
-*   **Administrator Check**: Automatically detects if the script is run with administrator privileges and provides a prompt if not.
-
-## 🚀 How to Use
-
-1.  Download the `proxy_tool.bat` file from this repository.
-2.  Right-click on the `proxy_tool.bat` file.
-3.  Select **"Run as administrator"**.
-4.  Follow the on-screen menu prompts to perform actions.
-
-## ⚠️ Troubleshooting
-
-**Q: The script displays garbled characters (mojibake) for Chinese text, or shows an error like `'xxx' is not recognized as an internal or external command...`?**
-
-**A:** This is a common issue caused by incorrect file encoding.
-
-**Solution:**
-1.  Open the `.bat` file with Windows **Notepad**.
-2.  Click **"File"** -> **"Save As..."**.
-3.  At the bottom of the dialog box, change the **"Encoding"** dropdown from `UTF-8` to **`ANSI`**.
-4.  Save and overwrite the original file. Rerun the script, and the issue should be resolved.
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## 👤 Author
-
-*   **Original Script by:** SutChan
-*   **Optimized & Documented by:** [SutChan]
+*   **脚本作者:** SutChan
